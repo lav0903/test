@@ -1,3 +1,4 @@
 #!/bin/bash
 echo "Hello"
-echo "HI HOW are YOU"
+echo "Hi How are you"
+echo "Where are you going"?
