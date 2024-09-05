@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "Hello"
-echo "Hi How are you"
-echo "Where are you going"?
+echo "HI HOW are YOU"
+echo "Where are you?"
